@@ -9,8 +9,6 @@ spring:
     generate-ddl: true
     hibernate:
       ddl-auto: create 
-server:
-  port: 6001
 moviesapi:
   roles:
   - name: DIRECTOR
