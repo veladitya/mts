@@ -1,7 +1,8 @@
 spring:
   datasource:
     #url: jdbc:h2:tcp://localhost:9092/C:/opt/fedex/sabre/h2db/moviesdb
-    url: jdbc:h2:/C:/opt/fedex/sabre/h2db/moviesdb
+    #url: jdbc:h2:/C:/opt/fedex/sabre/h2db/moviesdb
+    url: jdbc:h2:mem:moviesdb
     username: sa
     driverClassName: org.h2.Driver
   jpa:
