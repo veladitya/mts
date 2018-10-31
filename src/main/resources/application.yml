@@ -72,7 +72,73 @@ moviesapi:
     imageUrl: /gallery/viswaroopam.jpg
     tagline: family movie
     hitRate: 0
-    flopRate: 0            
+    flopRate: 0 
+  - movieId:  
+    title: Saakshyam
+    imageUrl: /gallery/saakshyam.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: Hello Guru Prema Kosame
+    imageUrl: /gallery/hello-guru-prema-kosame.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: Pandemkodi 2
+    imageUrl: /gallery/pandemkodi-2.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0  
+  - movieId:  
+    title: Aravindha Sametha
+    imageUrl: /gallery/aravinda-sametha.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0 
+  - movieId:  
+    title: NOTA
+    imageUrl: /gallery/nota.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: Bale Manchi Chowka Beram
+    imageUrl: /gallery/bale-manchi-chowka-beram.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: DesamLo Dongalu Paddaru
+    imageUrl: /gallery/desamlo-dongalu-paddaru.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0  
+  - movieId:  
+    title: Natakam
+    imageUrl: /gallery/natakam.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0  
+  - movieId:  
+    title: Nawab
+    imageUrl: /gallery/nawab.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: Devadas
+    imageUrl: /gallery/devadas.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0  
+  - movieId:  
+    title: Ee Maya Peremito
+    imageUrl: /gallery/ee-maya-peremito.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0                    
 movieRatings: 
 - movieTitle: A
   userName: Chiranjeevi
