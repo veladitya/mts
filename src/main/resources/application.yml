@@ -49,6 +49,30 @@ moviesapi:
     tagline: family movie
     hitRate: 0
     flopRate: 0
+  - movieId:  
+    title: Bharat Ane Nenu
+    imageUrl: /gallery/bharatanenenu.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: Goodachari
+    imageUrl: /gallery/goodachari.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0
+  - movieId:  
+    title: Srinivasa Kalyanam
+    imageUrl: /gallery/srinivasakalyanam.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0  
+  - movieId:  
+    title: Viswaroopam
+    imageUrl: /gallery/viswaroopam.jpg
+    tagline: family movie
+    hitRate: 0
+    flopRate: 0            
 movieRatings: 
 - movieTitle: A
   userName: Chiranjeevi
